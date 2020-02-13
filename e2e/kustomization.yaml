@@ -8,7 +8,7 @@ patchesStrategicMerge:
 - ./deployment-patch.yaml
 
 images:
-- name: alexmt/argocd-demo
+- name: atul7cloudyuga/argocd-demo
   newTag: 3824e3ce01af4947d4375c2d8fb22159d12e5c04
 - name: atul7cloudyuga/argocd-demo
   newTag: e172218244a2e1a657f530d8d3fc8aa5ad6ca7fa
