@@ -9,4 +9,4 @@ patchesStrategicMerge:
 
 images:
 - name: atul7cloudyuga/argocd-demo
-  newTag: b9826ff25e3d07cb767ac56d667caf01c5b4b36e
+  newTag: 9924da7d8289e64e64c61e830a03bd04505b5272
